@@ -65,3 +65,4 @@ data/     db.json (avtomatik yaratiladi)
 - Namuna materiallar (kutubxona ish vaqti, tartib qoidalari) o‘zingizning ma’lumotingizga almashtirilsin.
 - Ma’lumotlar bazasi JSON fayl — pilot (bitta universitet) uchun yetarli. Ko‘p foydalanuvchida PostgreSQL ga o‘ting (`server/db.js` ni almashtirish kifoya).
 - Serverni HTTPS ortida (Nginx/Caddy) va doimiy ishlaydigan holatda (pm2/systemd) ishga tushiring.
+"# Edu-Student" 
