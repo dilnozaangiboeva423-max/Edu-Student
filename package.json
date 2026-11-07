@@ -1,0 +1,13 @@
+{
+  "name": "edubot",
+  "version": "1.0.0",
+  "description": "EduBot — talabalar uchun 24/7 yordamchi: dars jadvali, kutubxona, AI, SMS ogohlantirish",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EduBot — talabalar yordamchisi",
+  "short_name": "EduBot",
+  "lang": "uz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#0B7A75",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
